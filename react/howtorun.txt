@@ -1,0 +1,6 @@
+Para poder correr la aplicación, uno tiene que tener instalado Nodejs
+Se tiene que ubicar uno en el folder my-app/.
+Después abrir una terminal en esa ubicación y para correrlo se debe de ejecutar el comando: npm start
+
+De esta forma comenzará a correr la aplicación y será visible en el navegador con la dirección:
+http://localhost:3000
