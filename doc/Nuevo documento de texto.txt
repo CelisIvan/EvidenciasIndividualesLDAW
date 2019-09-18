@@ -1,0 +1,6 @@
+para correr laravel se tiene que localizar uno en la carpeta de docker-laravel
+después en la terminal ejecutar el comando 
+artisan serve
+
+
+Después en el navegador ir a localhost:8000 y se verá laravel
